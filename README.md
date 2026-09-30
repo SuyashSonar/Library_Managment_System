@@ -54,7 +54,6 @@ The data file is created automatically the first time you add something. To star
 library-management-system/
 ├── main.py            # the menu and user input
 ├── library.py         # all the actual logic + saving/loading
-├── test_library.py    # unit tests
 ├── data/              # library.json gets created here
 ├── REPORT.md          # project report
 └── README.md
